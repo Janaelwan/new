@@ -1,0 +1,252 @@
+.one
+{
+    color:brown;
+    text-align:center;
+    font-size:50px;
+    text-decoration:underline;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:700;
+}
+a
+{
+text-decoration:none;
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.two
+{
+width: 300px
+;
+font-family: sans-serif;
+margin: 110px;
+padding: 50px ;
+}
+ul li{
+    list-style-type: square;
+    
+}
+h1{
+     font-family:'Courier New', Courier, monospace ;
+     font-weight:700 ;
+     text-align: center;
+     text-decoration: underline;
+     color :crimson;
+     font-size :50px
+}
+.oopmol
+{
+    color :red;
+    font-size :40px;
+    font-weight: 700;
+    border: solid white;
+    text-decoration: underline;
+ 
+}
+ul li{
+    list-style-type: square;
+    background-color: blacks;
+
+
+  
+}
+.lecturesoo
+{
+    color :red;
+    font-size :40px;
+    font-weight: 700;
+    border: solid white;
+    text-decoration: underline; 
+}
+.ooplabs
+{
+    font-family:'Courier New', Courier, monospace ;
+    font-weight:700 ;
+    text-align: center;
+    text-decoration: underline;
+    color :crimson;
+    font-size :50px
+}  
+
+.ooplabu
+{
+    list-style-type: square
+    ;
+    border :solid white; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif  
+}
+.ooplabd
+{
+    margin: 120px;
+    padding: 50px ;
+}
+.databaseh
+{
+    font-family:'Courier New', Courier, monospace ;
+    font-weight:700 ;
+    text-align: center;
+    text-decoration: underline;
+    color :crimson;
+    font-size :50px;
+
+}
+
+.databasep
+{
+    color :red;
+    font-size :40px;
+    font-weight: 700;
+    border: solid white;
+    text-decoration: underline;    
+}
+.databaselec
+{
+    color :red;
+    font-size :40px;
+    font-weight: 700;
+    text-decoration: underline;    
+    border :10px white;
+    width:50px;
+    height :30px;
+
+}
+.courses
+{
+    margin: 120px;
+    padding: 50px ;
+
+    
+}
+.courseall
+{
+   background-color:darkgray;
+    
+}
+.janafcisall
+{
+ background-color:blue;   
+}
+.w3-container
+{
+    font-size: 700px;
+    color :red;
+    text-align: center;
+
+}
+.databaseall
+{
+    background-image: image();
+}
+.discereteh1
+{
+    color :red;
+    text-align:center;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.disceretediv
+{
+border :solid red;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button2 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }.button3 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }.button4 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }.onee{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .twoo {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }.three {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }.four {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }.five {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }.six {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }.seven {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  /*****************************/
